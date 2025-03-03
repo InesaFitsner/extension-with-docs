@@ -1,0 +1,1 @@
+from extension_with_docs.extension_with_docs import ExtensionWithDocs

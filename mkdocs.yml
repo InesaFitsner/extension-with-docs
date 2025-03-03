@@ -1,0 +1,7 @@
+site_name: ExtensionWithDocs
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
